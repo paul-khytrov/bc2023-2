@@ -1,0 +1,2 @@
+http://backend.course#paul-khytrov
+http://backend.course?name="Хитров Павло"&github_name="paul-khytrov"&group="ФЕІ-25с"&subgroup="Підгрупа 1"
